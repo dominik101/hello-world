@@ -1,4 +1,4 @@
-hello-whole world
+hello, whole world
 ===========
 
 Practice Repository Dominik
