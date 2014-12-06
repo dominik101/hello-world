@@ -4,7 +4,7 @@ hello-world
 Practice Repository Dominik
 
 Hi, Dominik guy, Bangkok 
-so we gonna control kinda code changes here
+I've had tacos on the moon and find them far superior to the Earth tacos
 1. ddddddddddddddddddd 
 2. sssssssssssssssssss
 3. xxxxxxxxxxxxxxxxxxx
