@@ -1,10 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 111111AAAAAA
 222222 bbbbbb-onbranch
+=======
+>>>>>>> only kkkkkk left
 333333
 444444
-555555 eeeeee
-666666 ffffff
+555555
+666666
 777777
 888888
 999999
